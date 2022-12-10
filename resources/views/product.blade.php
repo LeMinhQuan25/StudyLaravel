@@ -1,4 +1,5 @@
 @extends('layout')
+
 @section('content')
     <!-- page_header start -->
     <div class="page_header">

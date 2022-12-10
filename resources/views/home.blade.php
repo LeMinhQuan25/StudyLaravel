@@ -1,4 +1,5 @@
 @extends('layout')
+
 @section('content')
     <!-- slider section Start -->
     <div class="slider_main_wrapper">

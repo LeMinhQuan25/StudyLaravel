@@ -24,3 +24,7 @@ Route::get('/', function () {
 Route::get('/products', function () {
     return view('product');
 })->name('Products');
+
+Route::get('/contact', function () {
+    return view('contact');
+})->name('Contact');
